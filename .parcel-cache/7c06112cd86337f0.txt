@@ -52,7 +52,7 @@
 81D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\@parcel\workers\lib\child.js133060178645268398 0
 51D:\FullStackCOURSE\GitHub\goit-js-hw-09\.prettierrc132986943040000000 0
 81D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\abortcontroller-polyfill\src133060178724060394 1
-44D:\FullStackCOURSE\GitHub\goit-js-hw-09\dist133060942412886441 1
+44D:\FullStackCOURSE\GitHub\goit-js-hw-09\dist133061135656683016 1
 91D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\@parcel\transformer-html\src\inline.js133060178672030339 0
 91D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\@swc\helpers\src\_get_prototype_of.mjs133060178807486845 0
 84D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\caniuse-lite\data\regions\HK.js133060178866748057 0
@@ -179,7 +179,7 @@
 107D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\@parcel\transformer-js\parcel-swc.linux-arm64-gnu.node133060178825348972 0
 80D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\normalize-path\package.json133060178591397137 0
 67D:\FullStackCOURSE\GitHub\goit-js-hw-09\src\js\01-color-switcher.js133060846419383837 0
-58D:\FullStackCOURSE\GitHub\goit-js-hw-09\src\js\02-timer.js133060942396168304 0
+58D:\FullStackCOURSE\GitHub\goit-js-hw-09\src\js\02-timer.js133061135653759731 0
 112D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\@jridgewell\sourcemap-codec\dist\sourcemap-codec.umd.js.map133060178624694641 0
 87D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\@parcel\markdown-ansi\package.json133060178629920540 0
 61D:\FullStackCOURSE\GitHub\goit-js-hw-09\src\js\03-promises.js133060059960000000 0
@@ -513,7 +513,7 @@
 67D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\node-addon-api133060178735343102 1
 104D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_drop.1133060178736053903 0
 85D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\term-size\vendor\macos\term-size133060178620409812 0
-74D:\FullStackCOURSE\GitHub\goit-js-hw-09\dist\goit-js-hw-09.59712999.js.map133060942412816347 0
+74D:\FullStackCOURSE\GitHub\goit-js-hw-09\dist\goit-js-hw-09.59712999.js.map133061134268137595 0
 66D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\node-releases133060178637919530 1
 85D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\posthtml-match-helper\index.d.ts133060178616605530 0
 74D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\anymatch\package.json133060178609057030 0
@@ -638,7 +638,7 @@
 83D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\yaml\dist\warnings-1000a372.js133060178767570207 0
 105D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\css-tree\lib\syntax\pseudo\common\nthWithOfClause.js133060178801009461 0
 67D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\supports-color133060178620610040 1
-72D:\FullStackCOURSE\GitHub\goit-js-hw-09\dist\03-promises.cd58c9ff.js.map133060942412806366 0
+72D:\FullStackCOURSE\GitHub\goit-js-hw-09\dist\03-promises.cd58c9ff.js.map133061134268137595 0
 81D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\weak-lru-cache\tests\test.js133060178644657357 0
 57D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\svgo133060178798496633 1
 106D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\caniuse-lite\data\features\background-position-x-y.js133060178776781132 0
@@ -2109,7 +2109,7 @@
 67D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\lmdb\README.md133060178810830617 0
 74D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\lmdb\rollup.config.js133060178808477969 0
 69D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\lmdb\SECURITY.md133060178810900696 0
-70D:\FullStackCOURSE\GitHub\goit-js-hw-09\dist\goit-js-hw-09.59712999.js133060942412445938 0
+70D:\FullStackCOURSE\GitHub\goit-js-hw-09\dist\goit-js-hw-09.59712999.js133061134267707107 0
 61D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\lmdb\src133060178803992825 1
 84D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\@parcel\plugin\lib\PluginAPI.js133060178600257133 0
 79D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\lmdb\util\RangeIterable.js133060178808237688 0
@@ -2340,7 +2340,7 @@
 71D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\is-json\.npmignore133060178597964544 0
 73D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\is-json\package.json133060178591407148 0
 100D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\@parcel\watcher\src\watchman\WatchmanBackend.cc133060178724611015 0
-68D:\FullStackCOURSE\GitHub\goit-js-hw-09\dist\03-promises.cd58c9ff.js133060942412425995 0
+68D:\FullStackCOURSE\GitHub\goit-js-hw-09\dist\03-promises.cd58c9ff.js133061134267707107 0
 65D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\is-json\test133060178646539816 1
 84D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\caniuse-lite\data\regions\LT.js133060178873846098 0
 94D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\@parcel\core\lib\requests\AssetRequest.js133060178749619180 0
@@ -4036,7 +4036,7 @@
 80D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\@swc\helpers\lib\_update.js133060178796363794 0
 95D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\@swc\helpers\src\_class_name_tdz_error.mjs133060178804683600 0
 106D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\@swc\helpers\src\_class_private_field_destructure.mjs133060178804773710 0
-78D:\FullStackCOURSE\GitHub\goit-js-hw-09\dist\01-color-switcher.52e3b619.js.map133060942412826368 0
+78D:\FullStackCOURSE\GitHub\goit-js-hw-09\dist\01-color-switcher.52e3b619.js.map133061134268137595 0
 98D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\@swc\helpers\src\_class_private_field_get.mjs133060178804863801 0
 84D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\@jridgewell\gen-mapping\LICENSE133060178591377463 0
 105D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\@swc\helpers\src\_class_private_field_loose_base.mjs133060178804993950 0
@@ -4236,7 +4236,7 @@
 92D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\@parcel\utils\test\input\config\.testrc133060178597934600 0
 95D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\@parcel\utils\test\input\config\config.cjs133060178616044899 0
 94D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\@parcel\utils\test\input\config\config.js133060178724010336 0
-58D:\FullStackCOURSE\GitHub\goit-js-hw-09\dist\02-timer.html133060942412846384 0
+58D:\FullStackCOURSE\GitHub\goit-js-hw-09\dist\02-timer.html133061134267847261 0
 95D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\@parcel\utils\test\input\config\empty.json133060178795873257 0
 95D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\@parcel\utils\test\input\config\empty.toml133060178805304305 0
 80D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\@parcel\utils\src\config.js133060178719765555 0
@@ -4523,7 +4523,7 @@
 127D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\aliased-file\index.js133060178752502437 0
 131D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\aliased-file\package.json133060178798236341 0
 120D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope\pkg\foo133060178642925429 1
-79D:\FullStackCOURSE\GitHub\goit-js-hw-09\dist\01-color-switcher.101ee4ef.css.map133060942412806366 0
+79D:\FullStackCOURSE\GitHub\goit-js-hw-09\dist\01-color-switcher.101ee4ef.css.map133061134268137595 0
 127D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope\pkg\foo\bar.js133060178642925429 0
 129D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\.pnpm\source-pnpm@1.0.0133060178733460990 1
 142D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\.pnpm\source-pnpm@1.0.0\node_modules133060178733771325 1
@@ -4828,7 +4828,7 @@
 91D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\@nodelib\fs.scandir\out\utils\index.js133060178716391756 0
 91D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\@nodelib\fs.scandir\out\types\index.js133060178696828866 0
 97D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\@nodelib\fs.scandir\out\providers\async.d.ts133060178726332952 0
-69D:\FullStackCOURSE\GitHub\goit-js-hw-09\dist\02-timer.f9388f03.js.map133060942412816347 0
+69D:\FullStackCOURSE\GitHub\goit-js-hw-09\dist\02-timer.f9388f03.js.map133061135656673005 0
 96D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\@nodelib\fs.scandir\out\providers\sync.d.ts133060178736924895 0
 97D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64133060178715921230 1
 113D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\node.abi93.node133060178625435479 0
@@ -4976,11 +4976,11 @@
 66D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\.bin\svgo.cmd133060178889444232 0
 64D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\.bin\terser133060178889344126 0
 68D:\FullStackCOURSE\GitHub\goit-js-hw-09\node_modules\.bin\terser.ps1133060178889334115 0
-75D:\FullStackCOURSE\GitHub\goit-js-hw-09\dist\01-color-switcher.101ee4ef.css133060942412155609 0
-74D:\FullStackCOURSE\GitHub\goit-js-hw-09\dist\01-color-switcher.52e3b619.js133060942412455949 0
-67D:\FullStackCOURSE\GitHub\goit-js-hw-09\dist\01-color-switcher.html133060942412866410 0
-65D:\FullStackCOURSE\GitHub\goit-js-hw-09\dist\02-timer.f9388f03.js133060942412435922 0
-61D:\FullStackCOURSE\GitHub\goit-js-hw-09\dist\03-promises.html133060942412856400 0
-55D:\FullStackCOURSE\GitHub\goit-js-hw-09\dist\index.html133060942412846384 0
+75D:\FullStackCOURSE\GitHub\goit-js-hw-09\dist\01-color-switcher.101ee4ef.css133061134267707107 0
+74D:\FullStackCOURSE\GitHub\goit-js-hw-09\dist\01-color-switcher.52e3b619.js133061134267727128 0
+67D:\FullStackCOURSE\GitHub\goit-js-hw-09\dist\01-color-switcher.html133061134267847261 0
+65D:\FullStackCOURSE\GitHub\goit-js-hw-09\dist\02-timer.f9388f03.js133061135656622952 0
+61D:\FullStackCOURSE\GitHub\goit-js-hw-09\dist\03-promises.html133061134267847261 0
+55D:\FullStackCOURSE\GitHub\goit-js-hw-09\dist\index.html133061134267737149 0
 64D:\FullStackCOURSE\GitHub\goit-js-hw-09\assets\repo-settings.png132986943040000000 0
 68D:\FullStackCOURSE\GitHub\goit-js-hw-09\.github\workflows\deploy.yml132986943040000000 0
